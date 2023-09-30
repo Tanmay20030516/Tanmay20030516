@@ -4,10 +4,10 @@
 - 🌱 I’m currently learning ML/DL frameworks
 - 👯 I’m looking to collaborate on projects made with PyTorch
 - 🤔 I’m looking for help with starting NLP
+- ⚡ Fun fact: Always look for a dark mode first, before setting up an IDE 😉
 <!-- - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ... -->
-- ⚡ Fun fact: Always look for a dark mode first, before setting up an IDE 😉
 <!--
 **Tanmay20030516/Tanmay20030516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
