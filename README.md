@@ -1,6 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I'm Tanmay, pre-final year at IIT (BHU) Varanasi, an Artificial Intelligence and Data Science enthusiast.
 [![An image of @tanmay20030516's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanmay20030516)](https://holopin.io/@tanmay20030516)
-
+<!-- - 🔭 I’m currently working on ... -->
+- 🌱 I’m currently learning ML/DL frameworks
+- 👯 I’m looking to collaborate on projects made with PyTorch
+- 🤔 I’m looking for help with starting NLP
+<!-- - 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ... -->
+- ⚡ Fun fact: Always look for a dark mode first, before setting up an IDE 😉
 <!--
 **Tanmay20030516/Tanmay20030516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
